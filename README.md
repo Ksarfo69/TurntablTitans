@@ -1,6 +1,8 @@
  
 # ComprehendNow
 
+ComprehendNow is a natural language processing solution that aims to help people with disabilities better understand complex documents. Leveraging machine learning algorithms and Natural Language Processing techniques, ComprehendNow provides an intuitive and user-friendly chatbot interface that can assist users in comprehending complex texts, such as insurance policies or legal documents. The solution offers a wide range of features, including text summarization, speech-to-text, text-to-speech, and question-answering. ComprehendNow aims to improve accessibility and promote inclusivity by empowering individuals with cognitive disabilities to confidently engage with information that might have once been inaccessible to them.
+
 ## Project Details
 
 | Event Attribute| Description    |
@@ -39,15 +41,14 @@ Mark is relieved to find that he can easily understand the information and can a
 | [Use Case Story](./hackproject/usecases/usecase.md)                                                                                                                                      | Supporting material for judges. | 
 | [Visual Collaboration Board URL](https://app.mural.co/t/turntabltitans6057/m/turntabltitans6057/1683468948643/5f30d3fe5a4326ceae53c12e414204e3c3f6ef00?sender=u88b5004d2f886360870e4376) | Supporting development material for team. | 
 | [Visual Collaboration Board Artifacts](./hackproject/media/board)                                                                                                                        | Supporting development material for team. | 
-| [Design Thinking Playback Brief](./presentations/playback-brief.ppt)                                                                                                                     | Supporting development material for team. | 
-| [Concept Playback - Pitch Video](./media/videos/pitch-video.mp4)                                                                                                                         |  Required for judging. | 
-| [Concept Show-n-Tell Video](./media/videos/demo-video.mp4)                                                                                                                               | Optional or Required for judging depending on track. | 
+| [Design Thinking Playback Brief](./hackproject/presentations/playback-brief.pptx)                                                                                                        | Supporting development material for team. | 
+| [Concept Playback - Pitch Video](./hackproject/media/videos/pitch-video.mp4)                                                                                                             |  Required for judging. | 
+| [Concept Show-n-Tell Video](./hackproject/media/videos/demo-video.mp4)                                                                                                                               | Optional or Required for judging depending on track. | 
 | [Solution Code](./hackproject/README.md)                                                                                                                                                 | | Supporting material for judging depending on track.   | 
 
 ## Solution Decisions
 
 1. [ADR 01](./hackproject/decisions/adr-01.md)
-2. [BDR 01](./hackproject/decisions/adr-01.md)
 
 ## Team Information
 
